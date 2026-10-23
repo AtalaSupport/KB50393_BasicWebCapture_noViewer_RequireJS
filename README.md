@@ -1,0 +1,3 @@
+# KB50393_BasicWebCapture_noViewer_RequireJS
+
+Companion solution to KB50393
